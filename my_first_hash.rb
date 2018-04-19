@@ -1,7 +1,7 @@
-def my_hash(fun)
+def my_hash(hash)
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-fun = {"swim" => "ocean", "laugh" => "happy", "dance" => "groove"}
-return fun
+hash = {"swim" => "ocean", "laugh" => "happy", "dance" => "groove"}
+return hash 
 end
 
 def shipping_manifest(the_manifest)
