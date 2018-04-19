@@ -3,7 +3,7 @@ def my_hash(hash)
 hash = {"swim" => "ocean", "laugh" => "happy", "dance" => "groove"}
 return hash
 end
-
+my_hash
 def shipping_manifest(the_manifest)
   the_manifest = {  "whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
 end
